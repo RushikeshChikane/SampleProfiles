@@ -5,7 +5,7 @@ This repo contains profile content
 <h1 align="center"><b>Hi , I'm Rushikesh Chikane </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Learning Coading+Full-Stack+Developer,;Mechanical+Engineering+Student,;Transflower+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -39,7 +39,7 @@ This repo contains profile content
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -59,9 +59,8 @@ This repo contains profile content
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![PhotoShop](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    
+    ![Photo Shop](https://img.shields.io/badge/Photo%20Shop%20-0078d7.svg?style=for-the-badge&logo=photo-shop&logoColor=white)
+     ![Primier Pro](https://img.shields.io/badge/Primier%20Pro%20-0078d7.svg?style=for-the-badge&logo=Primier-Pro&logoColor=white)
 <br>
 
 - **Extras**:
@@ -140,7 +139,7 @@ This repo contains profile content
 
 <div align='center'>
 
-## <b>Welcome to the Transflower Environment</b>
+## <b>Welcome to the Transflower</b>
 
 </div>
 <br>
@@ -152,7 +151,7 @@ This repo contains profile content
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/Rushi@123)
+Credit: [Rushi@123](https://github.com/Rushi@123)
 
 Last Edited on: 09/11/2022
 
